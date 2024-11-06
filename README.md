@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho na área de Governança T.I, como aprendiz.
 - 📖 Curso Ciência da Computação (2/8)
-- 🌱 Estudando C/C++(ponteiros e alocação dinâmica), desenvolvimento WEB (Básico de HTML,CSS e JS), MySQL e gerenciamento de banco de dados. Um pouco de Python e Pentest também.
+- 🌱 Estudando C/C++ (ponteiros e alocação dinâmica), desenvolvimento WEB (Básico de HTML,CSS e JS), MySQL e gerenciamento de banco de dados. Um pouco de Python e Pentest também.
 - 📫 Me chame no email: pedroh20066@gmail.com e veja mais sobre mim no Linkedin www.linkedin.com/in/pedro-henrique-santos-silva..
 
 <div>
