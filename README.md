@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho como Estagiário em Desenvolvimento de Software.
 - 📖 Curso Ciência da Computação (3/8)
-- 🌱 Estudando C# (.Net), desenvolvimento WEB (HTML,CSS,JS/TS usando o Angular), MySQL/PostGRE e gerenciamento de banco de dados. Um pouco de Python e Pentest também.
+- 🌱 Estudando C# (.Net), Java, desenvolvimento WEB (HTML,CSS,JS/TS usando o Angular), MySQL/PostGRE e gerenciamento de banco de dados com DBeaver. Um pouco de Python e Pentest também.
 - 📫 Me chame no email: pedroh20066@gmail.com e veja mais sobre mim no Linkedin www.linkedin.com/in/pedro-henrique-santos-silva..
 
 <div>
