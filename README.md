@@ -13,7 +13,8 @@
 
 <h1><b>Meus Conhecimentos:</b></h1>
 <div style="display: inline_block">
-    <img align="center" alt="Ph-C" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/> 
+    <img align="center" alt="Ph-C" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
+    <img align="center" alt="Ph-Csharp" height="60" width="90"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>         
     <img align="center" alt="Ph-HTML" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
     <img align="center" alt="Ph-CSS" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> 
     <img align="center" alt="Ph-TS" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
