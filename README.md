@@ -17,7 +17,7 @@
     <img align="center" alt="Ph-Csharp" height="60" width="90"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>         
     <img align="center" alt="Ph-HTML" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
     <img align="center" alt="Ph-CSS" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> 
-    <img align="center" alt="Ph-TS" height="70" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+    <img align="center" alt="Ph-TS" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
     <img align="center" alt="Ph-JS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/> 
     <img align="center" alt="Ph-Ang" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" /> 
     <img align="center" alt="Ph-MySQL" height="40" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
