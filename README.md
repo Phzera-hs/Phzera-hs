@@ -5,8 +5,6 @@
 - 🌱 Estudando C# (.Net), Java, desenvolvimento WEB (HTML,CSS,JS/TS usando o Angular), MySQL/PostgreSQL e gerenciamento de banco de dados com DBeaver.
 - 📫 Me chame no email: pedroh20066@gmail.com e veja mais sobre mim no Linkedin www.linkedin.com/in/pedro-henrique-santos-silva..
 
-##
-
 <h1><b>Meus Conhecimentos:</b></h1>
 
 <div style="display: inline-block">
@@ -41,37 +39,21 @@
     <img alt="Ph-Ang" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" /> 
     <img alt="Ph-Dotnet" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
     <img alt="Ph-Postman" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+  </div>
 ##
 <h1><b>Key Skills</b></h1>
-
-<div style="display: flex; justify-content: center; gap: 40px; padding: 10px 0; flex-wrap: nowrap;">
-  <div style="text-align: center;">
+    
+  <div>
     <img alt="Destaque-Csharp" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
     <p><b>C# (.NET)</b></p>
-  </div>
-  
-  <div style="text-align: center;">
     <img alt="Destaque-Java" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
     <p><b>Java</b></p>
-  </div>
-
-  <div style="text-align: center;">
     <img alt="Destaque-Angular" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"/>
     <p><b>Angular</b></p>
-  </div>
-
-  <div style="text-align: center;">
     <img alt="Destaque-TS" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
     <p><b>TypeScript</b></p>
   </div>
-</div>
 <hr>
-
-
-
-##
-
-
 
 </div>
 
