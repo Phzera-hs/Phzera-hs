@@ -42,11 +42,7 @@
     <img alt="Ph-Ang" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" /> 
     <img alt="Ph-Dotnet" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
     <img alt="Ph-Postman" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
-  </div>
-  <hr>
-
-##
-<h1><b>Key Skills</b></h1>
+  <h1><b>Key Skills</b></h1>
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; padding: 10px 0;">
   <div style="text-align: center;">
@@ -69,6 +65,11 @@
     <p><b>TypeScript</b></p>
   </div>
 </div>
+  </div>
+  <hr>
+
+##
+
 
 
 </div>
