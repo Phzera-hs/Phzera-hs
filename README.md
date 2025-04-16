@@ -5,16 +5,11 @@
 - 🌱 Estudando C# (.Net), Java, desenvolvimento WEB (HTML,CSS,JS/TS usando o Angular), MySQL/PostGRE e gerenciamento de banco de dados com DBeaver.
 - 📫 Me chame no email: pedroh20066@gmail.com e veja mais sobre mim no Linkedin www.linkedin.com/in/pedro-henrique-santos-silva..
 
-<div>
-  <a href = "https://github.com/Phzera-hs">
-  <img height ="150cm" src ="https://github-readme-stats.vercel.app/api?username=Phzera-hs&show_icons=true&theme=dark&include&include_all_commits=true&count_private=true"/>
-  <img height ="140cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phzera-hs&layout=compact&langs_count=16&theme=dark"/>
-</div>
 
 ##
 <h1><b>Meus Conhecimentos:</b></h1>
 <div style="display: inline-block">
-<h3>Linguagens de Programação</h3>
+<h3>Programming Languages</h3>
   <div>
     <img alt="Ph-C" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
     <img alt="Ph-Csharp" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>         
@@ -40,5 +35,10 @@
   </div>
 </div>
 
+<div>
+  <a href = "https://github.com/Phzera-hs">
+  <img height ="150cm" src ="https://github-readme-stats.vercel.app/api?username=Phzera-hs&show_icons=true&theme=dark&include&include_all_commits=true&count_private=true"/>
+  <img height ="140cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phzera-hs&layout=compact&langs_count=16&theme=dark"/>
+</div>
 
 <hr>
