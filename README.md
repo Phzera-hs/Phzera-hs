@@ -51,7 +51,7 @@ www.linkedin.com/in/pedro-henrique-santos-silva..
         <img alt="Ph-Postman" height="60" width="60"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
     </div>
-    <h1><b>Key Skills</b></h1>
+<!--     <h1><b>Key Skills</b></h1>
     <div>
         <img alt="Destaque-Csharp" height="70" width="70"
            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
@@ -62,7 +62,7 @@ www.linkedin.com/in/pedro-henrique-santos-silva..
         <img alt="Destaque-TS" height="70" width="70"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />       
     </div>
-    <hr>
+    <hr> -->
 
 </div>
 
