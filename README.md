@@ -33,7 +33,6 @@
   <div>
     <img alt="Ph-MySQL" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
     <img alt="Ph-PostgreSQL" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-    <img alt="Ph-DBeaver" height="60" width="60" src="https://raw.githubusercontent.com/dbeaver/dbeaver/master/icons/logo/dbeaver-icon.png" />
   </div>
   <hr>
 
@@ -42,9 +41,10 @@
     <img alt="Ph-Ang" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" /> 
     <img alt="Ph-Dotnet" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
     <img alt="Ph-Postman" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
-  <h1><b>Key Skills</b></h1>
+##
+<h1><b>Key Skills</b></h1>
 
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; padding: 10px 0;">
+<div style="display: flex; justify-content: center; gap: 40px; padding: 10px 0; flex-wrap: nowrap;">
   <div style="text-align: center;">
     <img alt="Destaque-Csharp" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
     <p><b>C# (.NET)</b></p>
@@ -65,8 +65,8 @@
     <p><b>TypeScript</b></p>
   </div>
 </div>
-  </div>
-  <hr>
+<hr>
+
 
 ##
 
