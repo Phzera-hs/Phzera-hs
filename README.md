@@ -61,8 +61,8 @@ www.linkedin.com/in/pedro-henrique-santos-silva..
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />       
         <img alt="Destaque-TS" height="70" width="70"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />       
-    </div>
-    <hr> -->
+    </div> -->
+    <hr> 
 
 </div>
 
