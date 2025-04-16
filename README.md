@@ -29,11 +29,10 @@
   </div>
   <hr>
 
-  <h3>Databases and Database Tools</h3>
+  <h3>Databases</h3>
   <div>
     <img alt="Ph-MySQL" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
     <img alt="Ph-PostgreSQL" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-    <img alt="Ph-DBeaver" height="60" width="60" src="https://raw.githubusercontent.com/dbeaver/dbeaver/master/icons/logo/dbeaver-icon.png" />
   </div>
   <hr>
 
