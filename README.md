@@ -22,16 +22,6 @@ www.linkedin.com/in/pedro-henrique-santos-silva..
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
     </div>
     <hr>
-    <h3>Web Development</h3>
-    <div>
-        <img alt="Ph-HTML" height="60" width="60"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-        <img alt="Ph-CSS" height="60" width="60"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-        <img alt="Ph-TS" height="60" width="60"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-        <img alt="Ph-JS" height="60" width="60"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
     </div>
     <hr>
     <h3>Databases and Database Tools</h3>
