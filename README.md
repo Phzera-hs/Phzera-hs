@@ -22,8 +22,6 @@ www.linkedin.com/in/pedro-henrique-santos-silva..
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
     </div>
     <hr>
-    </div>
-    <hr>
     <h3>Databases and Database Tools</h3>
     <div>
         <img alt="Ph-MySQL" height="60" width="60"
