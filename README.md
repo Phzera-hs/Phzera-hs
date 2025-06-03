@@ -7,7 +7,6 @@ de banco de dados com DBeaver.
 - 🔎 Focado em aprender C#/Java e JS/TS, futuramente aprender Node.Js
 - 📫 Me chame no email: pedroh20066@gmail.com e veja mais sobre mim no Linkedin
 www.linkedin.com/in/pedro-henrique-santos-silva..
-    <button></button>
 
 <h1><b>Meus Conhecimentos:</b></h1>
 
