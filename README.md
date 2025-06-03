@@ -4,7 +4,7 @@
 - 📖 Curso Ciência da Computação (3/8)
 - 🌱 Estudando C# (.Net), Java, desenvolvimento WEB (HTML,CSS,JS/TS usando o Angular), MySQL/PostgreSQL e gerenciamento
 de banco de dados com DBeaver.
-- 🔎 Focado em aprender C#/Java e JS/TS, futuramente aprender Node.Js
+- 🔎 Focado em aprender C#/Java e JS/TS, futuramente aprender Node.JS
 - 📫 Me chame no email: pedroh20066@gmail.com e veja mais sobre mim no Linkedin
 www.linkedin.com/in/pedro-henrique-santos-silva..
 
