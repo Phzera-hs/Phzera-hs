@@ -19,8 +19,6 @@ www.linkedin.com/in/pedro-henrique-santos-silva..
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
         <img alt="Ph-Java" height="60" width="60"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-        <img alt="Ph-py" height="60" width="60"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
     </div>
     <hr>
     <h3>Databases and Database Tools</h3>
