@@ -33,7 +33,7 @@
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
         </div>
         <hr>
-        <h3>Databases and Database Tools</h3>
+        <h3>Banco de Dados</h3>
         <div>
             <img alt="Ph-MySQL" height="60" width="60"
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
@@ -41,7 +41,7 @@
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
         </div>
         <hr>
-        <h3>Frameworks e Tecnologias</h3>
+        <h3>Frameworks e outras tecnologias</h3>
         <div>
             <img alt="Ph-Angular" height="60" width="60"
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
@@ -53,7 +53,7 @@
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
         </div>
         <hr>
-        <h3>Version Control</h3>
+        <h3>Controle de versão</h3>
         <div>
             <img alt="Ph-Git" height="60" width="60"
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
