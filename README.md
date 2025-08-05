@@ -60,6 +60,7 @@
             <img alt="Ph-GitHub" height="60" width="60"
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
         </div>
+        <hr>
     </div>
 </div>
 
