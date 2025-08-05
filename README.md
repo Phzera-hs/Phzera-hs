@@ -4,6 +4,7 @@
 - 📖 Curso Ciência da Computação (4/8)
 - 🌱 Estudando C# (.NET) e Databricks (utilizando a Medallion Architecture na estrutura de um projeto e PySpark para construção de queries).
 - 🔎Focado em aprender C#, MySQL e Databricks. Também tenho interesse em Cybersecurity.
+- 💼 Já trabalhei com C# (.NET) no back-end e com HTML, CSS e TypeScript (Angular) no front-end.
 - 📫 Me chame no email: pedroh20066@gmail.com e veja mais sobre mim no Linkedin
 www.linkedin.com/in/pedro-henrique-santos-silva..
 
