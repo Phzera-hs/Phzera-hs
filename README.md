@@ -1,10 +1,9 @@
 ## Fala usuário que visita meu perfil! Tudo certo? Me chamo Pedro!
 
-- 🔭 Hoje trabalho como Estagiário em Desenvolvimento de Software.
-- 📖 Curso Ciência da Computação (3/8)
-- 🌱 Estudando C# (.Net), Java, desenvolvimento WEB (HTML,CSS,JS/TS usando o Angular), MySQL/PostgreSQL e gerenciamento
-de banco de dados com DBeaver.
-- 🔎 Focado em aprender C#/Java e JS/TS, futuramente aprender Node.JS
+- 🔭 Hoje trabalho como Estagiário em Desenvolvimento de Software e Dados.
+- 📖 Curso Ciência da Computação (4/8)
+- 🌱 Estudando C# (.NET) e Databricks (utilizando a Medallion Architecture na estrutura de um projeto e PySpark para construção de queries).
+- 🔎Focado em aprender C#, MySQL e Databricks. Também tenho interesse em Cybersecurity.
 - 📫 Me chame no email: pedroh20066@gmail.com e veja mais sobre mim no Linkedin
 www.linkedin.com/in/pedro-henrique-santos-silva..
 
@@ -17,8 +16,8 @@ www.linkedin.com/in/pedro-henrique-santos-silva..
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
         <img alt="Ph-Csharp" height="60" width="60"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-        <img alt="Ph-Java" height="60" width="60"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+        <img alt="Ph-Python" height="60" width="60"
+             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
     </div>
     <hr>
     <h3>Databases and Database Tools</h3>
@@ -37,6 +36,9 @@ www.linkedin.com/in/pedro-henrique-santos-silva..
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
         <img alt="Ph-Postman" height="60" width="60"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+        <img alt="Ph-Spark" height="60" width="60" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" />
+          
     </div>
 <!--     <h1><b>Key Skills</b></h1>
     <div>
