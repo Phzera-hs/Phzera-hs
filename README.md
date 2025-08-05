@@ -37,7 +37,7 @@ www.linkedin.com/in/pedro-henrique-santos-silva..
         <img alt="Ph-Postman" height="60" width="60"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
         <img alt="Ph-Spark" height="60" width="60" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" />
+           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" />
           
     </div>
 <!--     <h1><b>Key Skills</b></h1>
