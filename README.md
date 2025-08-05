@@ -4,7 +4,7 @@
 - 📖 Curso Ciência da Computação (4/8)
 - 🌱 Estudando C# (.NET) e Databricks (utilizando a Medallion Architecture na estrutura de um projeto e PySpark para construção de queries).
 - 🔎Focado em aprender C#, MySQL e Databricks. Também tenho interesse em Cybersecurity.
-- 💼 Já trabalhei com C# (.NET) no back-end e com HTML, CSS e TypeScript (Angular) no front-end, utilizando o padrão arquitetural MVC para organizar o código e separar lógica de negócio, interface e controle das requisições.
+- 💼 Já trabalhei com HTML, CSS e TypeScript usando o framework Angular no front-end, e com C# no back-end, utilizando o .NET e aplicando o padrão arquitetural MVC para organizar o código e separar a lógica de negócio, a interface e o controle das requisiçõe
 - 🙋🏽 Trabalho bem em equipe, aprendo rápido, sou proativo, tenho boa comunicação e facilidade para fazer networking.
 - 📫 Me chame no email: pedroh20066@gmail.com e veja mais sobre mim no [LinkedIn](https://www.linkedin.com/in/pedro-henrique-santos-silva)
 ---
