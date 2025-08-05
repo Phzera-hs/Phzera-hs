@@ -6,56 +6,62 @@
 - 🔎Focado em aprender C#, MySQL e Databricks. Também tenho interesse em Cybersecurity.
 - 💼 Já trabalhei com C# (.NET) no back-end e com HTML, CSS e TypeScript (Angular) no front-end, utilizando o padrão arquitetural MVC para organizar o código e separar lógica de negócio, interface e controle das requisições.
 - 🙋🏽 Trabalho bem em equipe, aprendo rápido, sou proativo, tenho boa comunicação e facilidade para fazer networking.
-- 📫 Me chame no email: pedroh20066@gmail.com e veja mais sobre mim no Linkedin
+- 📫 Me chame no email: pedroh20066@gmail.com e veja mais sobre mim no [LinkedIn](https://www.linkedin.com/in/pedro-henrique-santos-silva)
 www.linkedin.com/in/pedro-henrique-santos-silva.. 
+---
 
 <h1><b>Meus Conhecimentos:</b></h1>
 
 <div style="display: inline-block">
-    <h3>Programming Languages</h3>
-    <div>
-        <img alt="Ph-C" height="60" width="60"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-        <img alt="Ph-Csharp" height="60" width="60"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-        <img alt="Ph-Python" height="60" width="60"
-             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+        <h3>Back-end</h3>
+        <div>
+            <img alt="Ph-C" height="60" width="60"
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+            <img alt="Ph-Csharp" height="60" width="60"
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+            <img alt="Ph-Python" height="60" width="60"
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+        </div>
+        <h3>Front-end</h3>
+        <div>
+            <img alt="Ph-HTML" height="60" width="60"
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+            <img alt="Ph-CSS" height="60" width="60"
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+            <img alt="Ph-JS" height="60" width="60"
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+            <img alt="Ph-TS" height="60" width="60"
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+        </div>
+        <hr>
+        <h3>Databases and Database Tools</h3>
+        <div>
+            <img alt="Ph-MySQL" height="60" width="60"
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+            <img alt="Ph-PostgreSQL" height="60" width="60"
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+        </div>
+        <hr>
+        <h3>Frameworks e Tecnologias</h3>
+        <div>
+            <img alt="Ph-Angular" height="60" width="60"
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+            <img alt="Ph-Dotnet" height="60" width="60"
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
+            <img alt="Ph-Spark" height="60" width="60"
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" />
+            <img alt="Ph-Postman" height="60" width="60"
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+        </div>
+        <hr>
+        <h3>Version Control</h3>
+        <div>
+            <img alt="Ph-Git" height="60" width="60"
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+            <img alt="Ph-GitHub" height="60" width="60"
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+        </div>
     </div>
-    <hr>
-    <h3>Databases and Database Tools</h3>
-    <div>
-        <img alt="Ph-MySQL" height="60" width="60"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-        <img alt="Ph-PostgreSQL" height="60" width="60"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-    </div>
-    <hr>
-    <h3>Frameworks and Other Technologies</h3>
-    <div>
-        <img alt="Ph-Ang" height="60" width="60"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
-        <img alt="Ph-Dotnet" height="60" width="60"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
-        <img alt="Ph-Postman" height="60" width="60"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
-        <img alt="Ph-Spark" height="60" width="60" 
-           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" />
-          
-    </div>
-<!--     <h1><b>Key Skills</b></h1>
-    <div>
-        <img alt="Destaque-Csharp" height="70" width="70"
-           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-        <img alt="Destaque-Java" height="70" width="70"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />        
-        <img alt="Destaque-Angular" height="70" width="70"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />       
-        <img alt="Destaque-TS" height="70" width="70"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />       
-    </div> -->
-    <hr> 
-
-
 </div>
 
 <div align="center">
