@@ -7,7 +7,6 @@
 - 💼 Já trabalhei com C# (.NET) no back-end e com HTML, CSS e TypeScript (Angular) no front-end, utilizando o padrão arquitetural MVC para organizar o código e separar lógica de negócio, interface e controle das requisições.
 - 🙋🏽 Trabalho bem em equipe, aprendo rápido, sou proativo, tenho boa comunicação e facilidade para fazer networking.
 - 📫 Me chame no email: pedroh20066@gmail.com e veja mais sobre mim no [LinkedIn](https://www.linkedin.com/in/pedro-henrique-santos-silva)
-www.linkedin.com/in/pedro-henrique-santos-silva.. 
 ---
 
 <h1><b>Meus Conhecimentos:</b></h1>
