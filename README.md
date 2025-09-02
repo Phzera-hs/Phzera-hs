@@ -64,6 +64,15 @@
     </div>
 </div>
 
+<hr>
+
+<!-- REDES SOCIAIS -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/pedro-henrique-santos-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+</div>
+
+<hr>
+
 <div align="center">
     <a href="https://github.com/Phzera-hs">
         <img height="180"
