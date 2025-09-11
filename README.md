@@ -64,7 +64,7 @@
     </div>
 </div>
 
-## 📊 Repositórios Principais
+## 📊 Projeto Principal no momento
 | Repositório | Descrição | Status | Progresso |    Stack |Linguagem Principal | Último Commit |
 |-------------|-----------|--------|------------|------------|--------------------|---------------|
 | [Gestão de Evento](https://github.com/Phzera-hs/Gestao_De_Eventos) | Gestão de Evento com JWT | ![Development](https://img.shields.io/badge/status-development-yellow) | ![60%](https://img.shields.io/badge/70%25-20C146?style=flat-square) | Backend |![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white) | ![Último commit](https://img.shields.io/github/last-commit/Phzera-hs/Gestao_De_Eventos?style=for-the-badge) |
