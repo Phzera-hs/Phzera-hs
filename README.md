@@ -64,10 +64,10 @@
     </div>
 </div>
 
-<!-- REDES SOCIAIS -->
-<div align="center">
-  <a href="https://www.linkedin.com/in/pedro-henrique-santos-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-</div>
+## 📊 Repositórios Principais
+| Repositório | Descrição | Status | Progresso |    Stack |Linguagem Principal | Último Commit |
+|-------------|-----------|--------|------------|------------|--------------------|---------------|
+| [Gestão de Evento](https://github.com//Phzera-hs/Gestao_De_Eventos) | Gestão de Evento com JWT | ![Development](https://img.shields.io/badge/status-development-yellow) | ![60%](https://img.shields.io/badge/70%25-20C146?style=flat-square) | Backend |![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white) | ![Último commit](https://img.shields.io/github/last-commit/Study-With-Future-devs/SWF_StudyingWithFuture_BackEnd?style=for-the-badge) |
 
 <hr>
 
