@@ -58,8 +58,8 @@
 
 | Repositório | Descrição | Status | Progresso | Linguagem |
 |-------------|-----------|--------|-----------|-----------|
-| [Gestão de Evento](https://github.com/Phzera-hs/Gestao_De_Eventos) | Sistema de gestão de eventos com autenticação JWT | ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-677708) | ![70%](https://img.shields.io/badge/70%25-677708) | ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white) |
-|[Databricks Ocorrências Aéreas](https://github.com/Phzera-hs/Analise-Ocorrencia-Aeronaves) | Análise de dados no ambiente da Databricks | ![Status](https://img.shields.io/badge/status-finalizado-a8bc36) | ![100%](https://img.shields.io/badge/100%25-a8bc36) | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+| [Gestão de Evento](https://github.com/Phzera-hs/Gestao_De_Eventos) | Sistema de gestão de eventos com autenticação JWT | ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-ceac00) | ![70%](https://img.shields.io/badge/70%25-ceac00) | ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white) |
+|[Databricks Ocorrências Aéreas](https://github.com/Phzera-hs/Analise-Ocorrencia-Aeronaves) | Análise de dados no ambiente da Databricks | ![Status](https://img.shields.io/badge/status-finalizado-1bd100) | ![100%](https://img.shields.io/badge/100%25-1bd100) | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 
 
 </div>
