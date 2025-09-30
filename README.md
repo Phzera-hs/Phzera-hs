@@ -45,12 +45,9 @@
 
 ## 📊 Estatísticas  
 
-<div>
-  <img align="left"src="https://github-readme-stats.vercel.app/api?username=Phzera-hs&show_icons=true&theme=dark&hide_border=true" height="200"/> 
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Phzera-hs&layout=donut&theme=dark&hide_border=true" width="400" height="200"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Phzera-hs&layout=donut&theme=dark&hide_border=true" width="400" height="200"/>
 </div>
-  
-  <br><br><br><br><br><br><br><br><br>
 
 
 
