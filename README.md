@@ -59,6 +59,8 @@
 | Repositório | Descrição | Status | Progresso | Linguagem |
 |-------------|-----------|--------|-----------|-----------|
 | [Gestão de Evento](https://github.com/Phzera-hs/Gestao_De_Eventos) | Sistema de gestão de eventos com autenticação JWT | ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow) | ![70%](https://img.shields.io/badge/70%25-20C146) | ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white) |
+|[Databricks Ocorrências Aéreas](https://github.com/Phzera-hs/Analise-Ocorrencia-Aeronaves) | Análise de dados no ambiente da Databricks | ![Status](https://img.shields.io/badge/status-finalizado-08792B) | ![100%](https://img.shields.io/badge/100%25-08792B) | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+
 
 </div>
 
