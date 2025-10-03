@@ -8,6 +8,7 @@
 ---
 
 ## 🚀 Tecnologias & Ferramentas  
+### Back-end  
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" alt="C"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" alt="C#"/>
