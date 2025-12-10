@@ -44,23 +44,12 @@
 
 ---
 
-## 📊 Estatísticas  
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Phzera-hs&layout=donut&theme=dark&hide_border=true" width="400" height="200"/>
-</div>
-
-
-
----
-
 ## 🏗️ Projetos em Destaque
 
 <div align="center">
 
 | Repositório | Descrição | Status | Progresso | Ferramentas | Stack |
 |-------------|-----------|--------|-----------|-------------|-------|
-| [Gestão de Evento](https://github.com/Phzera-hs/Gestao_De_Eventos) | Sistema de gestão de eventos com autenticação JWT | ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-ceac00) | ![70%](https://img.shields.io/badge/70%25-ceac00) | ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white) | Backend |
 | [Databricks Ocorrências Aéreas](https://github.com/Phzera-hs/Analise-Ocorrencia-Aeronaves) | Análise de dados no ambiente da Databricks | ![Status](https://img.shields.io/badge/status-finalizado-1bd100) | ![100%](https://img.shields.io/badge/100%25-1bd100) | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) | Dados |
 | Projeto que une os conceitos de Databricks + Backend C# | - | ![Status](https://img.shields.io/badge/status-Em%20Estudo-ff3232) | ![0%](https://img.shields.io/badge/0%25-ff3232) | ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-%23FF3621?style=for-the-badge&logo=databricks&logoColor=white) | Backend + Dados |
 
