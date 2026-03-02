@@ -44,7 +44,7 @@
 | Repositório | Descrição | Status | Progresso | Ferramentas | Stack |
 |-------------|-----------|--------|-----------|-------------|-------|
 | [Databricks Ocorrências Aéreas](https://github.com/Phzera-hs/Analise-Ocorrencia-Aeronaves) | Análise de dados no ambiente da Databricks | ![Status](https://img.shields.io/badge/status-finalizado-1bd100) | ![100%](https://img.shields.io/badge/100%25-1bd100) | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) | Dados |
-| Projeto que une os conceitos de Databricks + Backend C# | - | ![Status](https://img.shields.io/badge/status-Em%20Estudo-ff3232) | ![0%](https://img.shields.io/badge/0%25-ff3232) | ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-%23FF3621?style=for-the-badge&logo=databricks&logoColor=white) | Backend + Dados |
+| [GrocerySharp](https://github.com/JotaCaps/GrocerySharp) | Gerenciamento de vendas | ![Status](https://img.shields.io/badge/status-Fase%20Final-1bd110) | ![90%](https://img.shields.io/badge/90%25-1bd110) | ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)| FullStack |
 
 
 
