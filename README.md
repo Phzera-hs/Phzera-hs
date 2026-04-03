@@ -1,10 +1,10 @@
 
 ## Fala usuário que visita meu perfil! Tudo certo? Me chamo Pedro!
 - 🔭 Hoje trabalho como Estagiário em Desenvolvimento de Software e Dados.
-- 📖 Curso Ciência da Computação (4/8)
-- 🌱 Estudando C# (.NET) e Databricks (utilizando a Medallion Architecture na estrutura de um projeto e PySpark para construção de queries).
-- 🔎Focado em aprender C#, MySQL e Databricks. Também tenho interesse em Cybersecurity.
-- 💼 Já trabalhei com HTML, CSS e TypeScript usando o framework Angular no front-end, e com C# no back-end, utilizando o .NET e aplicando o padrão arquitetural MVC para organizar o código e separar a lógica de negócio, a interface e o controle das requisições
+- 📖 Curso Ciência da Computação (5/8)
+- 🌱 Estudando Python e Databricks (utilizando a Medallion Architecture na estrutura de um projeto e PySpark para construção de queries).
+- 🔎Focado em aprender Python, SQL e Databricks.
+- 💼 Já trabalhei com HTML, CSS e TypeScript usando o framework Angular no front-end, com C# no back-end, utilizando o .NET e aplicando o padrão arquitetural MVC para organizar o código e separar a lógica de negócio, a interface e o controle das requisições. Além de utilizar de Python em ambiente Databricks para criar EDAs e gerar dashboards.
 - 🙋🏽 Trabalho bem em equipe, aprendo rápido, sou proativo, tenho boa comunicação e facilidade para fazer networking.
 ---
 
