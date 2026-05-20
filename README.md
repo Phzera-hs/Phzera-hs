@@ -1,11 +1,16 @@
 
 ## Fala usuário que visita meu perfil! Tudo certo? Me chamo Pedro!
-- 🔭 Hoje trabalho como Estagiário em Desenvolvimento de Software e Dados.
-- 📖 Curso Ciência da Computação (5/8)
-- 🌱 Estudando Python e Databricks (utilizando a Medallion Architecture na estrutura de um projeto e PySpark para construção de queries).
-- 🔎Focado em aprender Python, SQL e Databricks.
-- 💼 Já trabalhei com HTML, CSS e TypeScript usando o framework Angular no front-end, com C# no back-end, utilizando o .NET e aplicando o padrão arquitetural MVC para organizar o código e separar a lógica de negócio, a interface e o controle das requisições. Além de utilizar de Python em ambiente Databricks para criar EDAs e gerar dashboards.
-- 🙋🏽 Trabalho bem em equipe, aprendo rápido, sou proativo, tenho boa comunicação e facilidade para fazer networking.
+
+- 📊 Hoje trabalho como Estagiário em Desenvolvimento de Software e Dados.
+- 🎓 Curso Ciência da Computação (5/8).
+- 🌱 Estudando Python, SQL, Engenharia de Dados e Análise de Dados.
+- 🔎 Focado em aprofundar conhecimentos em Python, SQL, Databricks e ecossistema de dados.
+- 🚀 Buscando evoluir como Data Scientist ou Data Engineer.
+- 📈 Tenho experiência com manipulação e análise de dados em ambiente Databricks, criação de EDAs, dashboards e automações utilizando Python.
+- 🗄️ Também possuo experiência com bancos de dados, consultas SQL e organização de pipelines para análise de informações.
+- 💻 Já trabalhei com HTML, CSS e TypeScript utilizando Angular no front-end, além de C# e .NET no back-end aplicando o padrão MVC para estruturação e organização do código.
+- ☁️ Interesse em tecnologias voltadas para Dados, IA e Computação em Nuvem.
+- 🙋🏽 Trabalho bem em equipe, aprendo rápido, sou proativo, comunicativo e tenho facilidade para networking.
 ---
 
 ## 🚀 Tecnologias & Ferramentas  
@@ -44,8 +49,8 @@
 | Repositório | Descrição | Status | Progresso | Ferramentas | Stack |
 |-------------|-----------|--------|-----------|-------------|-------|
 | [Databricks Ocorrências Aéreas](https://github.com/Phzera-hs/Analise-Ocorrencia-Aeronaves) | Análise de dados no ambiente da Databricks | ![Status](https://img.shields.io/badge/status-finalizado-1bd100) | ![100%](https://img.shields.io/badge/100%25-1bd100) | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) | Dados |
-| [GrocerySharp](https://github.com/JotaCaps/GrocerySharp) | Gerenciamento de vendas | ![Status](https://img.shields.io/badge/status-Fase%20Final-1bd110) | ![90%](https://img.shields.io/badge/90%25-1bd110) | ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)| FullStack |
-
+| [GrocerySharp](https://github.com/JotaCaps/GrocerySharp) | Gerenciamento de vendas | ![Status](https://img.shields.io/badge/status-Fase%20Final-1bd110) | ![90%](https://img.shields.io/badge/90%25-1bd110) | ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white) | FullStack |
+| [DaaS - Data as a Service](https://github.com/Phzera-hs/DaaS) | Plataforma AI-Native para geração de datasets sintéticos relacionais com storytelling orientado a cenários reais, focada em facilitar estudos, projetos e práticas na área de dados | ![Status](https://img.shields.io/badge/status-Em%20Desenvolvimento-ff9800) | ![35%](https://img.shields.io/badge/35%25-ff9800) | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat) | Data Platform / AI |
 
 
 </div>
